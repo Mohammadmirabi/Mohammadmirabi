@@ -26,13 +26,6 @@ Focused on **performance, maintainable code**, and **mobile-first design** 🚀
 
 ---
 
-## 🧬 GitHub Stats
-<p align="center">
-  <img height="150" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&theme=tokyonight&hide_border=true&show_icons=true" />
-</p>
-
----
-
 ## 🌐 Connect
 <p align="center">
   <a href="https://instagram.com/yourusername"><img src="https://img.shields.io/badge/Instagram-111?style=for-the-badge&logo=instagram&logoColor=ff0099" /></a>
