@@ -28,9 +28,9 @@ Focused on **performance, maintainable code**, and **mobile-first design** 🚀
 
 ## 🌐 Connect
 <p align="center">
-  <a href="https://instagram.com/yourusername"><img src="https://img.shields.io/badge/Instagram-111?style=for-the-badge&logo=instagram&logoColor=ff0099" /></a>
-  <a href="https://t.me/yourusername"><img src="https://img.shields.io/badge/Telegram-111?style=for-the-badge&logo=telegram&logoColor=00c8ff" /></a>
-  <a href="mailto:youremail@example.com"><img src="https://img.shields.io/badge/Email-111?style=for-the-badge&logo=gmail&logoColor=ff7b00" /></a>
+  <a href="https://instagram.com/mohammad_mirabi_official"><img src="https://img.shields.io/badge/Instagram-111?style=for-the-badge&logo=instagram&logoColor=ff0099" /></a>
+  <a href="https://t.me/Mohamad87mjj"><img src="https://img.shields.io/badge/Telegram-111?style=for-the-badge&logo=telegram&logoColor=00c8ff" /></a>
+  <a href="mailto:mirabimohammad30@gmail.com"><img src="https://img.shields.io/badge/Email-111?style=for-the-badge&logo=gmail&logoColor=ff7b00" /></a>
 </p>
 
 <p align="center">
