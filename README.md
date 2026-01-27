@@ -4,11 +4,6 @@
   🔥 Frontend Developer • Modern Dark
 </h1>
 
-<!-- Typing Banner -->
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code+Bold&weight=800&size=28&duration=2500&pause=700&color=00ffff&center=true&vCenter=true&multiline=true&width=100%25&height=80&lines=Crafting+Futuristic+Dark+Interfaces;Clean+Code+%7C+High+Performance;Always+Leveling+Up;Pixel-Perfect+Design" />
-</p>
-
 ---
 
 ## 🌑 About Me
